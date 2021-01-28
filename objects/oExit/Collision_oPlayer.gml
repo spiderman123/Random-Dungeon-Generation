@@ -20,4 +20,4 @@ switch(orientation){
 }
 oPlayer.x = _x;
 oPlayer.y = _y;
-instance_destroy(oExit);
+instance_destroy(oExit)
